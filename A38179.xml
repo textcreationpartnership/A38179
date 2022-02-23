@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vow and covenant appoynted by ye Lords &amp; Commons assembled in Parliament to be taken by every man in ye cities of London, Westminster ye suburbs &amp; liberties thereof &amp; thoroughout ye whole kingdome.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38179</idno>
+            <idno type="STC">Wing E2460</idno>
+            <idno type="STC">ESTC R27341</idno>
+            <idno type="EEBO-CITATION">09811886</idno>
+            <idno type="OCLC">ocm 09811886</idno>
+            <idno type="VID">44163</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38179)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44163)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1356:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vow and covenant appoynted by ye Lords &amp; Commons assembled in Parliament to be taken by every man in ye cities of London, Westminster ye suburbs &amp; liberties thereof &amp; thoroughout ye whole kingdome.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Sould by Thomas Ienner,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1643?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Oath of loyalty to Parliament and opposition to the King.</note>
+                  <note>Dated: Die Sabbathy 17 Juny, 1643.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:44163:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>The <hi>Vow</hi> and <hi>Covenant</hi> appoynted by y<hi rend="sup">e</hi> 
+               <hi>Lords &amp; Commons</hi> aſſembled in <hi>Parliament,</hi> to be taken by euery man, in y<hi rend="sup">e</hi> 
+               <hi>Cities</hi> of <hi>London, Weſtminſter,</hi> y<hi rend="sup">e</hi> 
+               <hi>Suburbs &amp;</hi> liberties thereof; <hi>&amp;</hi> throughout y<hi rend="sup">e</hi> whole <hi>Kingdome.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>Die Sabbathy 17. Iunij 1643.</date>
+               </dateline>
+            </opener>
+            <p>I.A.B. in humility &amp; reverence of y<hi rend="sup">e</hi> Diuine maiesty, declare my hearty sorrow for my owne ſins, &amp; y<hi rend="sup">e</hi> ſins of this Nation, which haue deserved y<hi rend="sup">e</hi> Calamities &amp; Iudgm<hi rend="sup">ts</hi> y<hi rend="sup">t</hi> now by upon it, And my true intention is, by God's grace, to endeauour y<hi rend="sup">e</hi> amendm<hi rend="sup">t</hi> of my own wayes; And y<hi rend="sup">t</hi> I do ab<g ref="char:EOLhyphen"/>hor &amp; detest y<hi rend="sup">e</hi> 
+               <add>ſaid</add> wicked &amp; treacherous Designe lately diſcovered; &amp; y<hi rend="sup">t</hi> I neuer gaue, nor will give my aſsent to y<hi rend="sup">e</hi> Execution thereof, but will, according to my power &amp; vocation, oppose &amp; reſiſt y<hi rend="sup">e</hi> same, &amp; all other of y<hi rend="sup">e</hi> like nature: And in case any other like Designe shall hereaft<hi rend="sup">r</hi> come to my knowledge, I will make such timely diſcouery as I shall conceiue may best conduce to y<hi rend="sup">e</hi> preuenting thereof, And whereas I do in my Conscience beleiue, y<hi rend="sup">t</hi> y<hi rend="sup">e</hi> Forces raiſed by y<hi rend="sup">e</hi> two Houſes of Par<hi rend="sup">l</hi>iam<hi rend="sup">t</hi> are raiſed &amp; continued for their iust defence, &amp; for y<hi rend="sup">e</hi> defence of y<hi rend="sup">e</hi> true Proteſtant Religion, &amp; Liber<g ref="char:EOLhyphen"/>ties of y<hi rend="sup">e</hi> Subiect, against y<hi rend="sup">e</hi> forces raiſed by y<hi rend="sup">e</hi> King: I do, here in y<hi rend="sup">e</hi> presence of Almighty God, declare, vow, &amp; Couenant, y<hi rend="sup">t</hi> I will, according to my power &amp; vocation, aſsist y<hi rend="sup">e</hi> Forces raiſed &amp; continued by both Houſes of Parliam<hi rend="sup">t</hi>, against y<hi rend="sup">e</hi> Forces raiſed by the King without their Consent; And will likewiſe aſsiſt all other perſons y<hi rend="sup">t</hi> shall take this Oath, in w<hi rend="sup">t</hi> they shall do in Pursuance thereof, And will not directly or indirectly adhere unto, nor shall willingly aſsiſt y<hi rend="sup">e</hi> Forces raiſed by y<hi rend="sup">e</hi> king without y<hi rend="sup">e</hi> conſent of hoth Houſes of Parliam<hi rend="sup">t</hi>. And this vow &amp; covenant I make in y<hi rend="sup">e</hi> preſence of Almighty God, y<hi rend="sup">e</hi> Search<hi rend="sup">r</hi> of all hearts, w<hi rend="sup">th</hi> a true intention to ꝑforme y<hi rend="sup">e</hi> same, as I shall answer at y<hi rend="sup">e</hi> great day, when y<hi rend="sup">e</hi> Secrets of all Hearts ſhalbe diſclosed.</p>
+            <p>This House doth declare, y<hi rend="sup">t</hi> all those that ſhall not take this Vow, &amp; Covenant, shall forth w<hi rend="sup">th</hi> be Disarmed, And no Souldiers entertayn'd, shall receive pay untill they have taken it.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>Sould by Thomas Iennor at y<hi rend="sup">e</hi> Exchange.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
